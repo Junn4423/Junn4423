@@ -124,7 +124,7 @@
 
 
 ### 💕 Deadline all day !!!!!!
-<img src='https://i.gifer.com/39Cg.mp4' style="height: 400px;"/>
+<img src="https://i.gifer.com/39Cg.mp4" style="height: 400px;"/>
     <article class="markdown-body entry-content container-lg f5" itemprop="text">
         <themed-picture data-catalyst-inline="true" data-catalyst="">
             <picture>
