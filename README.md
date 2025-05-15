@@ -108,9 +108,12 @@
 
 <img src='https://forthebadge.com/images/badges/approved-by-my-mom.png'/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=junn4423&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=junn4423&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=junn4423&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=junn4423&theme=radical" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junn4423&theme=radical" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junn4423&theme=radical&layout=compact" />
+</p>
+
 
 <img src='https://forthebadge.com/images/badges/ctrl-c-ctrl-v.png'/>
 <img src='https://forthebadge.com/images/badges/not-a-bug-a-feature.png'/>
