@@ -76,7 +76,18 @@
   <img src="https://forthebadge.com/images/badges/works-on-my-machine.png" alt="Works on My Machine" />
   <img src="https://forthebadge.com/images/badges/approved-by-my-mom.png" alt="Approved by My Mom" />
 </div>
+<br>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+        <themed-picture data-catalyst-inline="true" data-catalyst="">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+            </picture>
+        </themed-picture>
+    </article>
 
+<br>
 <div align="center">
   <h2>💕 Deadline all day !!!!!!</h2>
   <img src="https://i.gifer.com/39Cg.gif" alt="Deadline GIF" width="700" />
