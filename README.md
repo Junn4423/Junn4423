@@ -51,18 +51,12 @@
 
 <br>
 
-<img src='https://forthebadge.com/images/badges/approved-by-my-mom.png'/>
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=junn4423&theme=radical" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junn4423&theme=radical" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junn4423&theme=radical&layout=compact" />
 </p>
-
-
-<img src='https://forthebadge.com/images/badges/ctrl-c-ctrl-v.png'/>
-<img src='https://forthebadge.com/images/badges/not-a-bug-a-feature.png'/>
-<img src='https://forthebadge.com/images/badges/works-on-my-machine.png'/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junn4423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -72,16 +66,23 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-### 💕 Deadline all day !!!!!!
-<img align="left" height="150" src="https://i.gifer.com/39Cg.gif" />
-    <article class="markdown-body entry-content container-lg f5" itemprop="text">
-        <themed-picture data-catalyst-inline="true" data-catalyst="">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-            </picture>
-        </themed-picture>
-    </article>
+<br>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.png" alt="Ctrl+C Ctrl+V" />
+  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.png" alt="Not a Bug, a Feature" />
+  <img src="https://forthebadge.com/images/badges/works-on-my-machine.png" alt="Works on My Machine" />
+  <img src="https://forthebadge.com/images/badges/approved-by-my-mom.png" alt="Approved by My Mom" />
+</div>
+
+<div align="center">
+  <h2>💕 Deadline all day !!!!!!</h2>
+  <img src="https://i.gifer.com/39Cg.gif" alt="Deadline GIF" width="700" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div>
 </body>
 </html>
