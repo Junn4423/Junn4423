@@ -92,7 +92,7 @@
 <hr>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junn4423&bg_color=0D1117&color=5BCDEC&line=0BBE00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 <div align="center">
-  <h2>💕 Deadline all day !!!!!!</h2>
+  <h2>💕 Deadline all dayy !!!!!!</h2>
   <img src="https://i.gifer.com/39Cg.gif" alt="Deadline GIF" width="700" />
 </div>
 <div align="center">
