@@ -63,7 +63,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=junn4423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
-  <h2>✨ Daily Quote ✨</h2>
+  <h2>✨ Daily Quotes ✨</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
