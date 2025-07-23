@@ -34,7 +34,7 @@
         <h3 align="center">Backend</h3>
         <div align="center">
           <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nodejs,cs,java,python,cpp,c,kotlin" alt="Backend Skills" />
+            <img src="https://skillicons.dev/icons?i=nodejs,cs,java,python,cpp,c,lua" alt="Backend Skills" />
           </a>
         </div>
       </td>
