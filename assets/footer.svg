@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0BBE00"/><stop offset=".5" stop-color="#5BCDEC"/><stop offset="1" stop-color="#FF4ECD"/></linearGradient></defs>
+<rect width="1200" height="120" fill="#0D1117"/>
+<path d="M0 68 C180 25 340 108 520 66 S850 20 1200 72 V120 H0Z" fill="url(#g)" opacity=".17"/>
+<path d="M0 68 C180 25 340 108 520 66 S850 20 1200 72" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="600" y="43" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">EOF // thanks for scrolling this far // cookie unlocked</text>
+</svg>
