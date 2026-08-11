@@ -8,7 +8,7 @@
      <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0BBE00&center=true&vCenter=true&width=800&height=100&lines=Welcome%20to%20my%20GitHub%20Profile!;I%27m%20Cedric;Nice%20to%20meet%20you%20👋;%3C3"alt="Typing SVG"/>
     </h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjunn4423&label=Profile%20views&color=0e75b6&style=flat" alt="junn4423" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Junn4423&label=Profile%20views&color=0e75b6&style=flat" alt="junn4423" /> </p>
     <div align="center">
         <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47grm93x1grsxc1dmdqa7ged0ojsyrqtlxmdpi534j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ảnh gif">
     </div>
