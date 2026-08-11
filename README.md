@@ -2,6 +2,7 @@
   Junn4423 // Cyber HUD GitHub Profile
   Keep the pjunn4423 profile-view counter intentionally.
 -->
+<!-- Critical decorative panels are self-hosted under ./assets to avoid broken third-party badges. -->
 
 <p align="center">
   <img
@@ -164,18 +165,13 @@ const cedric = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Junn4423?tab=achievements">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=Junn4423&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
-      alt="GitHub trophies"
+      src="./assets/panels/achievement-vault.svg"
+      width="100%"
+      alt="Junn4423 GitHub achievements — Quickdraw, YOLO and Pull Shark"
     />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/QUICKDRAW-UNLOCKED-0BBE00?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/YOLO-UNLOCKED-5BCDEC?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PULL%20SHARK-UNLOCKED-FF4ECD?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <br>
@@ -197,15 +193,13 @@ const cedric = {
   <img src="./assets/headers/07-certifications.svg" width="100%" alt="Totally legit certifications section" />
 </p>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.png" alt="Ctrl+C Ctrl+V" />
-  <br>
-  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.png" alt="Not a Bug, a Feature" />
-  <img src="https://forthebadge.com/images/badges/works-on-my-machine.png" alt="Works on My Machine" />
-  <img src="https://forthebadge.com/images/badges/approved-by-my-mom.png" alt="Approved by My Mom" />
-</div>
+<p align="center">
+  <img
+    src="./assets/panels/certifications.svg"
+    width="100%"
+    alt="Totally legit developer certifications"
+  />
+</p>
 
 <br>
 
